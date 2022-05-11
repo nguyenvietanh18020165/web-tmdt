@@ -7,7 +7,7 @@
 7. Seed database: php artisan db:seed
 8. Open up web server: php artisan serve
 9. Browse app: localhost:8000
-10. Login using test account: Email: test@haposoft.com / Password: 123456789
+10. Login using test account: Email: vanhleg0908@gmail.com / Password: 123456789
 
 * authen
 1. composer require laravel/ui
