@@ -1,0 +1,37 @@
+.title-pro-filter {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  color: #111;
+}
+.pi-pic {
+  .text-pro-filter {
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 40px;
+    top: 14px;
+    font-size: 10px;
+    font-weight: 500;
+    background-color: #50e550;
+    padding: 0 10px;
+    color: #fff;
+    border-radius: 10px;
+  }
+
+  .icon-pro-filter {
+    position: absolute;
+    right: 16px;
+    bottom: 0;
+  }
+
+  .heart-pro-filter {
+    padding: 5px;
+    background-color: #f0f0f0;
+  }
+
+  .bag-pro-filter {
+    padding: 5px;
+    background-color: #f0f0f0;
+  }
+}
